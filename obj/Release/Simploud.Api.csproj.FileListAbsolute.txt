@@ -1,0 +1,8 @@
+C:\Users\joao\Documents\Visual Studio 2012\Projects\Dropbox\Simploud.Api\bin\Release\Simploud.Api.dll
+C:\Users\joao\Documents\Visual Studio 2012\Projects\Dropbox\Simploud.Api\bin\Release\Simploud.Api.pdb
+C:\Users\joao\Documents\Visual Studio 2012\Projects\Dropbox\Simploud.Api\obj\Release\Simploud.Api.dll
+C:\Users\joao\Documents\Visual Studio 2012\Projects\Dropbox\Simploud.Api\obj\Release\Simploud.Api.pdb
+C:\Users\joao\Documents\Visual Studio 2012\Projects\Dropbox\Simploud.Api\bin\Release\Newtonsoft.Json.dll
+C:\Users\joao\Documents\Visual Studio 2012\Projects\Dropbox\Simploud.Api\bin\Release\Newtonsoft.Json.pdb
+C:\Users\joao\Documents\Visual Studio 2012\Projects\Dropbox\Simploud.Api\bin\Release\Newtonsoft.Json.xml
+C:\Users\joao\Documents\Visual Studio 2012\Projects\Dropbox\Simploud.Api\obj\Release\Simploud.Api.csprojResolveAssemblyReference.cache
